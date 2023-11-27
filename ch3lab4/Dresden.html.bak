@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang=”en”>
+	<head>
+		<meta charset="UTF-8">
+		<title>The Dresden Files</title>
+	</head>
+	<body>
+	<header>
+	<h1><a href="Books.html">The Dresden Files Books</a></h1>
+	</header>
+	
+	<main>
+	<p>The Dresden Files are Jim Butcher's first published series, telling the story of Harry Blackstone Copperfield Dresden, Chicago's first (and only) Wizard P.I. To know the name of the wizard allows you to control the wizard. Never divulge your full name. There are currently thirteen books in the series.</p>
+
+	<p>The eleventh book in the series is title "Turn Coat". In "Turn Coat" we find Harry's nemesis, Donald Morgan, come to him for asylum. For a full description of this book in the series go to "<a href="Books.html#TurnCoat">Turn Coat</a>".</p>
+	
+	<p>The twelfth book in the series, "Changes", is the most powerful book up to this time. Not only does it show how strong Harry Dresden's magic has become but he finds that he has a daughter he knew nothing about. The finale of this book shows Harry being murdered, which caused a great uproar among fans of the series. For a full description of this book go to "<a href="Books.html#Changes">Changes</a>".</p>
+	
+	<p>"Ghost Story" is the thirteenth book in the series. This book starts with Harry standing in front of a oncoming train. However he is not on earth but in a world described as purgatory. He learns that someone cheated and that he should never have died. In order to save his friends he is talked into going back as a ghost and learn who his murderer is. Click on this link for a full description of "<a href="Books.html#GhostStory">Ghost Story</a>".</p>
+	
+	<p>Like many popular authors, Jim Butcher author of, "The Dresden Files" has his own web site. To view the web site go to <a href="http://www.jim-butcher.com">Jim Butcher</a>.</p>
+	</main>
+	
+	<footer>
+	<p>All information is taken from Wikipedia.</p>
+	</footer>
+	</body>
+</html>

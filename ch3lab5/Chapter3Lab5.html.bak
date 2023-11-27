@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=”en”>
+	<head>
+		<meta charset="UTF-8">
+		<title>Star Trek</title>
+	</head>
+	<body>
+	<header>
+	<h1>Star Trek</h1>
+	<p>Star Trek has been around since 1966. It has been an idea of the creator, Gene Roddenberry, for much longer than that. To date there have been five series, an animated series, and ten movies. For a brief description of each of the series select one of the links below.</p>
+	</header>
+	
+	<main>
+	<ul type ="square">
+	
+	<li><a href=" https://www.startrek.com/database_article/star-trek-the-original-series-synopsis " target="_blank">Star Trek: The Original Series</a></li>
+	<li><a href=" https://www.startrek.com/database_article/star-trek-the-next-generation-synopsis ">Star Trek: The Next Generation</a></li>
+	<li><a href=" https://www.startrek.com/database_article/star-trek-deep-space-nine-synopsis ">Star Trek: Deep Space Nine</a></li>
+	<li><a href=" https://www.startrek.com/database_article/star-trek-voyager-synopsis ">Star Trek: Voyager</a></li>
+	<li><a href=" https://www.startrek.com/database_article/star-trek-enterprise-synopsis ">Star Trek: Enterprise</a></li>
+	</ul>
+	</main>
+	
+	<footer>
+	<p>For additional information on anything and everything you wanted to know about Star Trek, go to their official website at:</p>
+	<p><a href="http://www.startrek.com">Official Star Trek Web Site</a></p>
+	</footer>
+	</body>
+</html>

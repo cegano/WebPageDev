@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Description Lists</title>
+	</head>
+	<body>
+		<header>
+			<h1>The Dresden Files by Jim Butcher</h1>
+			<img src="images/Dresden.jpg" alt="Dresden Files Fool Moon" width="225" height="300">
+		</header>
+		<main>
+			<dl>
+			<dt>Storm Front</dt>
+			<dd>First Book in the Dresden Files Series by Jim Butcher. A woman named Monica 
+			makes an appointment with Dresden to discuss a missing persons case later in the day. 
+			Dresden also gets a call from Lieutenant Karrin Murphy, director of Special 
+			Investigations (SI) Unit of the Chicago Police Department. Murphy'' partner shows him 
+			the bodies of two gruesomely murdered people with their hearts ripped out. Later that 
+			day, he is hired to find the husband of Monica Sells, Victor, a beginning magician who 
+			was acting oddly...</dd>
+			<dt>Fool Moon</dt>
+			<dd>Second Book in the Dresden Files Series by Jim Butcher. After the events in 
+			Storm Front. Kim Delaney, who Dresden helped to control her magical talents, asks 
+			Dresden how to create a set of three magical circles, which could be used to contain 
+			powerful entities. Dresden withholds the information, because such circles are 
+			generally used to contain demigods and archangels... </dd>
+			<dt>Grave Peril</dt>
+			<dd>Third Book in the Dresden Files Series by Jim Butcher. Set a year after the 
+			events of Fool Moon, the story begins with Harry Dresden hunting a ghost with 
+			Michael Carpenter, a Knight of the Cross and wielder of the holy sword called 
+			Amoracchius. They drive the spirit into the Nevernever before destroying her, and 
+			Harry discovers the ghost was under a spell of torment that caused the ghost to go on a 
+			rampage. At that moment, the faerie Leanansidhe and her Hellhounds encircle them. 
+			She greets Dresden as her godson and reminds him of a long-ago pact he made to serve 
+			her. Dresden lies his way out of the situation and returns to the real world, only to be 
+			arrested by the Chicago police.</dd>
+			</dl>
+		</main>
+		<footer>
+			<p>For further information contact:</p>
+			<p>Vicky Hardin<br>
+			vicky.hardin@kctcs.edu<br>
+			<a><h ref="tel:502-555-5555">502-555-5555</a></p>
+		</footer>
+
+	</body>
+</html>

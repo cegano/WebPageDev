@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Page2.html</title>
+	</head>
+	<body>
+		<main>
+		<h1 style="text-align:center"><a id="original"></a>Star Trek the Original Series</h1>
+		<p>Star Trek started out as an idea of Gene Roddenberry. As with many new series a pilot must be created and submitted to the studio. Gene created an episode that would later be called "The Cage". In this original pilot the ship's captain was not Captain Kirk but Captain Christopher Pike played by Roger Perry. Majel Barrett played Number One, not Nurse Christine Chapel. The only original character that appeared in the first season was none other than Mr. Spock played by Leonard Nimoy!<p>
+		
+		<h1 class="heading2"><a id="nextgeneration"></a>Star Trek: The Next Generation</h1>
+		<p>Star Trek: The Next Generation premiered in 1987. This series brought a new, fresher look to the same idea. The name of the ship remained the same, but was simply another ship given that name. By 1987 newer, special effects were introduced that were not available in the '60's. Captain Jean-Luc Picard was much different than Captain Kirk. Played by Patrick Steward he had a much cooler head on his shoulders than Kirk.</p>
+		
+		<h1 class="heading3"><a id="deepspacenine"></a>Star Trek: Deep Space Nine</h1>
+		<p>This series premiered on January 3, 1993 and ran for seven seasons. The least favorite of my Star Trek series this took place on space outpost rather than on a starship. The Captain Benjamin Sisko is a very strong character and is both raising his son and commanding the outpost. Several characters from both the other two series appear on this one occasionally. A couple of characters, one Worf, came over to "Deep Space Nine" for a while.</p>
+		
+		<h1 class="heading4"><a id="voyager"></a>Star Trek: Voyager</h1>
+		<p>This series premiered in 1995 and run until 2001. In this series we have a new ship, "The USS Voyager", and a very new crew. Everything takes places in the later 24th century and the ship and its crew spend most of their time in the Delta Quadrant trying to get home. The captain in this series is Captain Kathryn Janeway played by Kate Mulgrew. Don't think she's soft because she's a woman because you would be wrong.</p>
+		
+		<h1 class="heading5"><a id="enterprise"></a>Star Trek: Enterprise</h1>
+		<p>This series takes place earlier than the other series. Premiering in 2001 it is now in its fourth season. The Captain of the very first Enterprise is Captain Jonathan Archer played by Scott Bakula. A very good series shows the beginning of true space exploration. What really amazes me with every one of the series is the fact that there is a vulcan promonent in each except for Deep Space Nine.</p>
+		</main>
+	</body>
+</html>
