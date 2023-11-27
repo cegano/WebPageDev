@@ -1,0 +1,93 @@
+body {
+	background-color: #c65353;
+}
+
+header {
+	font-family: helvetica, sans-serif;
+	font-size: 3em;
+	text-align: center;
+	color: #fff;
+}
+
+main {
+	color: #000;
+}
+
+footer {
+	clear: left;
+	color: #fff;
+	font-family: Fantasy, Arial, Times New Roman;
+	font-size: 14pt;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+.first, .second, .third, .fourth {
+	border: .5em solid #000;
+}
+
+.first, .Relic {
+	width: 50%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	background-color: #ffffcc;
+}
+
+.second, .Reliquary {
+	width: 50%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-bottom: 50px;
+	background-color: #ffffcc
+}
+
+.third, .Cabinet {
+	width: 50%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-bottom: 50px;
+	background-color: #ffffcc
+}
+
+.fourth, .Still {
+	width: 50%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffcc
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	font-size: 2em;
+	color: #000;
+	background-color: #ffffcc;
+	border: 2em solid #000;
+}
+
+nav li {
+	display: inline-block;
+	padding-right: 2em;
+	line-height: 2em;
+	vertical-align: middle;
+}
+
+img {
+		transform: scale(0.75);
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+/* Style displays the mobile class */
+.mobile {
+		padding: 2%;
+}
