@@ -1,0 +1,160 @@
+/*
+Author: Cara Gano
+Date: April 18, 2022
+File Name: style.css
+*/
+
+/* CSS Reset */
+
+/* Styles for mobile viewport */
+
+/* Style rules for header element */
+header {
+	color: #330099;
+	text-align: center;
+}
+
+/* Style for unordered list within the navigation */
+nav ul {
+	width: 75%;
+}
+
+/* Style for nav li specifies the background color, rounded corners, removes bullet style, and applies margins and padding for list items within the navigation */
+nav li {
+	display: block;
+	background-color: #330099;
+	color: #FFFFFF;
+	border-radius: 1em;
+	list-style-type: none;
+	font-size: 12pt;
+	margin-top: .25em;
+	padding: .45em;
+}
+
+/* Style changes navigation link text colorto white and removes the underline */
+nav li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* Style changes the hover color and background color for links */
+nav li a:hover {
+	color: #330099;
+	background-color: #FFFFFF;
+}
+
+/* Style for setting the width of the table, adding a border, collapsing the borders and setting text color */
+table {
+	width: 100%;
+	border: thin double #330099;
+	border-collapse: separate;
+	color: #FFFFFF;
+	font-size: 10pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for moving the caption under the table and changing the text color */
+caption {
+	caption-side: bottom;
+	color: #330099;
+	font-size: 12pt;
+}
+
+/* Style for group1 class */
+.group1 {
+	width: 30%;
+	background-color: #330099;
+}
+
+/* Style for group2 class */
+.group2 {
+	width: 40%;
+	background-color: #FFFFFF;
+}
+
+/* Style for third column in table */
+.thirdColumn {
+	color: #000000;
+}
+
+/* Style for table rows */
+tr {
+	vertical-align: top;
+}
+
+/* Style for table data cells */
+td {
+	border: 2px ridge #6666ff;
+}
+
+/* Style for all table cells */
+td, th {
+	padding: .5em;
+}
+
+/*Styles for tablet viewport */
+@media only screen and (min-width: 481px) {
+	/* Style for nav unordered list centering */
+	nav ul {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	/* Style for list items */
+	nav li {
+		display: block;
+		margin-left: 1%;
+		margin-right: 1%;
+		padding-left: .4em;
+		padding-right: .2em;
+		width: 75%;
+	}
+	
+	/*Style for table font size in table viewport */
+	table {
+		font-size: 12pt;
+	}
+}
+	
+/* Styles for desktop viewport */
+@media only screen and (min-width: 769px) {
+	/* Style for unordered list to display as just text in desktop view */
+	nav li {
+		display: inline;
+		margin-left: 1%;
+		margin-right: 1%;
+		padding: .5em;
+		width: 75%;
+		background-color: #ffffff;
+		color: #330099;
+		font-size: 16pt;
+	}
+		
+	/* Style to change link color in desktop view */
+	nav li a {
+		color: #330099;
+	}
+		
+	/* Style to change the hover colors in desktop view */
+	nav li a:hover {
+		color: #ffffff;
+		background-color: #330099;
+	}
+		
+	/* Style to change to larger font size in desktop view */
+	table {
+		font-size: 14pt;
+		width: 75%;
+	}
+		
+	/* Style for moving the caption under the table and changing the text color */
+	caption {
+		caption-side: bottom;
+		color: #330099;
+		font-size: 24pt;
+	}
+}
+
+
+
