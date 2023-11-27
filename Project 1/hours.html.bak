@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+	Student name: Cara Gano
+	File name: hours.html
+	Date: May 2, 2022
+-->
+<html lang="en">
+<head>
+	<title>Puppy Cuts: Services</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Emblema+One&family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+<body>
+	<header>
+		<h1>&#128062; &Pscr;uppy &Cscr;uts &#128062;</h1>
+		<h3>Here for your pets!</h3>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>  
+            <li><a href="about.html">About Us</a></li> 
+			<li><a href="groomers.html">Meet Our Groomers</a></li>
+            <li><a href="services.html">Services</a></li>
+			<li><a href="pricing.html">Pricing Information</a></li>
+            <li><a href="products.html">Products</a></li> 
+			<li><a href="hours.html">Hours of Operation</a></li>
+			<li><a href="payment.html">Payment</a></li>
+			<li><a href="questions.html">Qs and Newsletter</a></li>
+            <li><a href="contact.html">Contact Us</a></li>  
+		</ul>
+		
+	</nav>
+	
+	<!-- Use the main area to add the main content to the webpage -->
+	<main> 
+	
+		<div id="info">
+		
+			<img class="image1" src="images/clock.jpg" alt="office hours">
+			
+			<h2>Hours of Operation</h2>
+			
+			<p>Our hours of operation vary depending on the <a href="services.html">service</a> you would like for your pet. Tuesday through Friday from 9:00AM to 5:00PM we provide all of the services listed for both dogs and cats. Saturdays and Sundays we provide all services from 11:00AM to 3:00PM.</p>
+			
+			<p><a href="index.html">Puppy Cuts</a> provides our other services such as nail trimming, teeth cleaning and flea treatments at additional times.  Tuesday through Friday from 5:00PM to 6:30PM and Saturdays and Sundays from 3:00PM to 4:00PM for your convenience.  Stop in any time and see one of our wonderful groomers!<p>
+			
+			<a href="products.html" class="previous">&laquo; Previous</a>
+			<a href="index.html" class="home">Home</a>
+			<a href="payment.html" class="next">Next &raquo;</a>
+			
+		</div>
+		
+	</main>
+	
+	<footer>
+		<p>&copy; Copyright 2022. All Rights Reserved.</p>
+		<p>Cara Gano</p>
+		<p><a href="mailto:cgano0001@kctcs.edu">cgano0001@kctcs.edu</a></p>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--
+	Student name: Cara Gano
+	File name: products.html
+	Date: March 28, 2022
+-->
+<html lang="en">
+<head>
+	<title>Puppy Cuts: Products</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Emblema+One&family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+<body>
+	<header>
+		<h1>&#128062; &Pscr;uppy &Cscr;uts &#128062;</h1>
+		<h3>Here for your pets!</h3>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>  
+            <li><a href="about.html">About Us</a></li> 
+			<li><a href="groomers.html">Meet Our Groomers</a></li>
+            <li><a href="services.html">Services</a></li>
+			<li><a href="pricing.html">Pricing Information</a></li>
+            <li><a href="products.html">Products</a></li> 
+			<li><a href="hours.html">Hours of Operation</a></li>
+			<li><a href="payment.html">Payment</a></li>
+			<li><a href="questions.html">Qs and Newsletter</a></li>
+            <li><a href="contact.html">Contact Us</a></li> 
+		</ul>
+		
+	</nav>
+	
+	<!-- Use the main area to add the main content to the webpage -->
+	<main> 
+		
+		<div id="info">
+			
+			<h2>Products</h2>
+			<p><a href="index.html">Puppy Cuts</a> can provide with products you can use to groom your pets at home!  This will ultimately save you money in between visits!  Among the products available we have:</p><br>
+			
+			<img class="image3" src="images/tools.jpg" alt="grooming tools"><br>
+				<ul>
+					<li>Dog Towels</li>
+					<li>FoamCare Shampoo and Conditioner</li>
+					<li>Cordless Professional Clippers</li>
+					<li>Magic Coat Brush</li>
+					<li>Stainless Steel Nail Clippers</li>
+					<li>Deep Cleaning Pet Wipes</li>
+				</ul><br><br>
+				
+	
+			<p>With these products you can groom your pet at home with our helpful tips.  Before you begin, make sure you have the correct equipment including drain covers or sprayers to help prevent drain clogs and help clean your pets.  Next, try to remove excess hair with a brush before getting your pet wet.  Use shampoo and conditioner to remove dirt and then rinse and dry your pet.  Next you can use clippers to trim your pet's hair.  Between baths use wipes to get rid of dirt on the coat.</p>
+		
+			<a href="pricing.html" class="previous">&laquo; Previous</a>
+			<a href="index.html" class="home">Home</a>
+			<a href="hours.html" class="next">Next &raquo;</a>
+			
+		</div>
+		
+	</main>
+	
+	<footer>
+		<p>&copy; Copyright 2022. All Rights Reserved.</p>
+		<p>Cara Gano</p>
+		<p><a href="mailto:cgano0001@kctcs.edu">cgano0001@kctcs.edu</a></p>
+	</footer>
+</body>
+</html>

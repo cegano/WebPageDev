@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+	Student name: Cara Gano
+	File name: index.html
+	Date: March 28, 2022
+-->
+<html lang="en">
+<head>
+	<title>Puppy Cuts: Home</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Emblema+One&family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+<body>
+	<header>
+		<h1>&#128062; &Pscr;uppy &Cscr;uts &#128062;</h1>
+		<h3>Here for your pets!</h3>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="services.html" class="services">Services</a></li>
+			<li><a href="products.html" class="products">Products</a></li>
+			<li><a href="about.html" class="next">Next &raquo;</a></li>
+		</ul>
+		
+	</nav>
+	
+	<!-- Use the main area to add the main content to the webpage -->
+	<main> 
+	
+		<div id="info">
+		
+			<img src="images/groomingadog.jpg" alt="dog being brushed" class="center">
+			
+			<p>Here at Puppy Cuts we are here for your pets!  We treat your animals like we treat our own.  Our mission is to provide the best customer service to pets as well as their owners!</p>
+	
+			<p>Our dedicated staff will have your pet looking and smelling their best with our careful and detailed grooming services and <a href="products">products</a>!  Please explore our website and discover the various kinds of <a href="services.html">services</a> we provide.  For your convenience we also offer online booking.  We hope to be your favorite place to take your pet(s)!</p>
+			
+			<a href="services.html" class="services">Services</a>
+			<a href="products.html" class="products">Products</a>
+			<a href="about.html" class="next">Next &raquo;</a>
+			
+		</div>
+		
+	</main>
+	
+	<footer>
+		<p>&copy; Copyright 2022. All Rights Reserved.</p>
+		<p>Cara Gano</p>
+		<p><a href="mailto:cgano0001@kctcs.edu">cgano0001@kctcs.edu</a></p>
+	</footer>
+</body>
+</html>

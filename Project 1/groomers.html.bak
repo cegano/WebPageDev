@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+	Student name: Cara Gano
+	File name: groomers.html
+	Date: May 2, 2022
+-->
+<html lang="en">
+<head>
+	<title>Puppy Cuts: Services</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Emblema+One&family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+<body>
+	<header>
+		<h1>&#128062; &Pscr;uppy &Cscr;uts &#128062;</h1>
+		<h3>Here for your pets!</h3>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>  
+            <li><a href="about.html">About Us</a></li> 
+			<li><a href="groomers.html">Meet Our Groomers</a></li>
+            <li><a href="services.html">Services</a></li>
+			<li><a href="pricing.html">Pricing Information</a></li>
+            <li><a href="products.html">Products</a></li> 
+			<li><a href="hours.html">Hours of Operation</a></li>
+			<li><a href="payment.html">Payment</a></li>
+			<li><a href="questions.html">Qs and Newsletter</a></li>
+            <li><a href="contact.html">Contact Us</a></li> 
+		</ul>
+		
+	</nav>
+	
+	<!-- Use the main area to add the main content to the webpage -->
+	<main> 
+	
+		<div id="info">
+			
+			<h2>Meet Our Groomers</h2><br>
+			
+			<h3>Maria</h3>
+			<p>Maria has been working with <a href="index.html">Puppy Cuts</a> since 2014.  She is our most seasoned employee and treats work as a second home.  Maria also has 4 wonderful dogs she spends time playing and going for walks with at home.</p>
+			
+			<img src="images/maria.jpg" alt="groomer maria" class="center1">
+			
+			<h3>Jon</h3>
+			<p>Meet Jon!  He has been working with us 2018 and is a lover of all animals big and small.  Jon has all kinds of animals to greet him after work including a bearded dragon, 3 cats and a dog.</p>
+			
+			<img src="images/jon.jpg" alt="groomer jon" class="center1">
+			
+			<h3>Serena</h3>
+			<p>Our newest employee is Serena, she started in 2020.  Before she joined our team she gained a lot of experience at another grooming company.  Serena is fantastic with cats and has 2 adorable cats herself.</p>
+			
+			<img src="images/serena.jpg" alt="groomer serena" class="center1">
+			
+			<a href="about.html" class="previous">&laquo; Previous</a>
+			<a href="index.html" class="home">Home</a>
+			<a href="services.html" class="next">Next &raquo;</a>
+			
+		</div>
+		
+	</main>
+	
+	<footer>
+		<p>&copy; Copyright 2022. All Rights Reserved.</p>
+		<p>Cara Gano</p>
+		<p><a href="mailto:cgano0001@kctcs.edu">cgano0001@kctcs.edu</a></p>
+	</footer>
+</body>
+</html>
