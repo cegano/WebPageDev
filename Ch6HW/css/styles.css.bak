@@ -1,0 +1,222 @@
+/*
+Authors: Jamal Williams, Eric Jones, Laura Smith, Sofia Perez
+Date: March 7, 2022
+File Name: styles.css
+*/
+
+/* CSS reset */
+body, header, nav, main, footer, img, h1, h3, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rule for images */
+img {
+    max-width: 100%;
+    display: block;
+}
+
+body {
+    background-color: #5371a9;
+}
+
+/* Style rules for mobile viewport */
+	
+/* Style rule to hide the tablet-desk class */
+.tablet-desk {
+    display: none;
+}
+
+/* Style rules for header content */
+header h1 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    padding: 5%;
+    font-size: 3em;
+}
+
+/* Style rules for navigation area */
+nav {
+    background-color: #fff;
+    border-bottom: 1px solid #003e80;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1em;
+    font-family: Geneva, Arial, sans-serif;
+    font-weight: bold;
+    padding: 3%;
+}
+
+nav li a {
+    display: block;
+    color: #314263;
+    text-decoration: none;
+}
+
+/* Style rules for main content */
+main {
+    padding: 2%;
+    background-color: #e7eaf3;
+    font-family: 'PT Sans', sans-serif;
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+#welcome img:first-child {
+    border: solid 1px #003e80;
+}
+
+main a {
+    color: #003e80;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main ul {
+    list-style-type: square;
+    margin-left: 12%;
+}
+
+.action {
+    font-size: 1.15em;
+    font-weight: bold;
+    color: #003e80;
+}
+
+.round {
+    border-radius: 12px;
+}
+
+#clubs ul li {
+    padding-bottom: 4%;
+}
+
+/* Style rules for footer content */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: #fff;
+    padding: 1% 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Media Query for Tablet Viewport */
+@media screen and (min-width 500px), print {
+/* Tablet Viewport: Show tab-desk class, hide mobile class */
+	.tab-desk {
+		display: block;
+	}
+
+	.mobile {
+		display: none;
+	}
+	
+/* Tablet Viewport: Style rules for nav */
+	nav li {
+		display: inline-block;
+		font-size: 1.25em;
+	}
+
+	nav li a {
+		padding: 0.5em;
+	}
+	
+/* Tablet Viewport: Style rule for main content */
+	.column {
+		float: left;
+		width: 50%;
+	}
+	
+/* Clear floats after the columns */
+	.row:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 1000px), print {
+
+/* Desktop Viewport: Style rules for nav area */
+	nav li {
+		font-size : 1.5em;
+	}
+	
+	nav li a {
+		padding: 0.5em 1.5em;
+	}
+
+	nav li a:hover {
+		color: #2a1f14;
+		background-color: #fff;
+	}
+
+/* Desktop Viewport: Style rules for main content */
+	main {
+		clear: left;
+	}
+	
+	#info ul {
+		margin-left: 5%;
+	}
+	
+	.column {
+		float: left;
+		width: 50%;
+	}
+	
+/* Clear floats after the columns */
+	.row:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+	
+/* Media Query for Large Desktop Viewport */
+@media screen and (min-width 1441px), print {
+	
+/* Large Desktop Viewport: Style rules for main content */
+	body {
+		background-image: linear-gradient(#fff, #e7eaf3);
+	}
+
+	main {
+		background-color: #e7eaf3;
+	}
+	
+	.column {
+		float: left;
+		width: 50%;
+	}
+	
+/* Clear floats after the columns */
+	.row:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+	
+/* Media Query for Print */
+@media print {
+	body {
+		background-color: #fff;
+		color: #000;
+	}
+}
