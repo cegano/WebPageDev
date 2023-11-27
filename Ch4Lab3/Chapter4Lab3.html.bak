@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+
+body
+{
+	background-image: url(images/back.jpg);
+}
+
+.paragraphs, .paragraph1
+{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+
+.paragraph1
+{
+	border: 2px solid rgb(142, 137, 129);
+	border-radius: 20 px;
+}
+	
+header
+{
+	text-align: center;
+	color: white;
+	font-size: 24pt;
+}
+
+.paragraphs
+{
+	border: 4px thin;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+footer
+{
+	background-color: #fff;
+	font-family: Times New Roman, Arial, serif;
+	font-size: 14pt;
+	padding: 10px;
+	position: relative;
+	top: 20px;
+}
+
+</style>
+<title>Chapter 4 Lab 3</title>
+</head>
+<body>
+<header>
+<h1>The Dresden Files</h1>
+</header>
+
+<main>
+<p class="paragraph1">A popular series of books by Jim Butcher.</p>
+
+<div class="paragraphs">
+
+<p>The Dresden Files is a series of contemporary fantasy/mystery novels written by Jim Butcher. He provides a first person narrative of each story from the point of view of the main character, private investigator and wizard Harry Dresden, as he recounts investigations into supernatural disturbances in modern-day Chicago. Butcher's original proposed title for the first novel was "Semiautomagic", which sums up the series' balance of fantasy and hard-boiled detective fiction.</p>
+
+<p>In 2007, a television series based on the novels, also called The Dresden Files, aired for one season on the American Sci-Fi Channel.</p>
+
+<p>In the world of The Dresden Files, magic is real (operating according to the Seven Laws of Magic), along with vampires, demons, spirits, fairies, werewolves, and other mythical monsters. Harry Dresden works to protect the general public, who are ignorant of magic and the dark forces conspiring against them. This makes it difficult for Harry to get by as a working wizard and private eye. The Chicago PD's Special Investigation unit, when led by Karrin Murphy, regularly employs Dresden as a consultant to help solve cases of a supernatural nature.</p>
+
+</div>
+
+</main>
+<footer>
+<p>The world of Dresden is comprised, currently, of 15 books in there series. Several additional books are expected, finishing the series with a triology to wrap the world of Dresden up.</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+body
+{
+ background-image: url(../images/back.jpg);
+}
+header
+{
+ font-family: helvetica,sans-serif;
+ font-size: 24pt;
+ text-align: center; 
+ color: #fff;
+}
+main 
+{
+ color: #000;
+}
+footer 
+{ 
+ clear: left;
+ color: #fff; 
+ font-family: Fantasy, Arial, Times New Roman; 
+ font-size:14pt;
+}

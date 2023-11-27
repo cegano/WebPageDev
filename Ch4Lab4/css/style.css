@@ -1,0 +1,22 @@
+body
+{
+	background-image: url(../images/back.jpg);
+	font-family: "Times New Roman", serif;
+	font-size: 16pt;
+	color: #ffffff;
+}
+
+a:link
+{
+	color: #ff0000
+}
+
+a:visited
+{
+	color: #215321
+}
+
+a
+{
+	text-decoration: none
+}

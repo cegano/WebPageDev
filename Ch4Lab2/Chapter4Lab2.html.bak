@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/style.css" type="text/css">
+<style>
+
+.paragraphs, .paragraph1
+{
+	padding: 20px;
+	margin-left: 50px;
+	background-color: white;
+	width: 90%;
+}
+
+.paragraphs
+{
+	column-count: 3;
+	column-gap: 4em;
+	background-color: white;
+	width: 90%;
+	margin-left: 50px;
+	padding: 20px;
+	
+	box-shadow:
+	0 0 0 5px hsl 0 100% 0%;
+	0 0 0 10px hsl 90 100% 20%;
+}
+
+.paragraph1
+{
+	box-shadow:
+	1px 1px 5px 1px rgba(0, 0, 0, .75) inset;
+}
+
+</style>
+
+<title>Chapter 4 Lab 2</title>
+</head>
+<body>
+<header>
+<h1 class="heading1">The Dresden Files</h1>
+</header>
+
+<main>
+<p class="paragraph1">A popular series of books by Jim Butcher.</p>
+
+<div class="paragraphs">
+
+<p>The Dresden Files is a series of contemporary fantasy/mystery novels written by Jim Butcher. He provides a first person narrative of each story from the point of view of the main character, private investigator and wizard Harry Dresden, as he recounts investigations into supernatural disturbances in modern-day Chicago. Butcher's original proposed title for the first novel was "Semiautomagic", which sums up the series' balance of fantasy and hard-boiled detective fiction.</p>
+
+<p>In 2007, a television series based on the novels, also called The Dresden Files, aired for one season on the American Sci-Fi Channel.</p>
+
+<p>In the world of The Dresden Files, magic is real (operating according to the Seven Laws of Magic), along with vampires, demons, spirits, fairies, werewolves, and other mythical monsters. Harry Dresden works to protect the general public, who are ignorant of magic and the dark forces conspiring against them. This makes it difficult for Harry to get by as a working wizard and private eye. The Chicago PD's Special Investigation unit, when led by Karrin Murphy, regularly employs Dresden as a consultant to help solve cases of a supernatural nature.</p>
+
+</div>
+
+</main>
+
+</body>
+</html>

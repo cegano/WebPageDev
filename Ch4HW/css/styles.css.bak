@@ -1,0 +1,102 @@
+/*
+Author: Cara Gano
+Date: February 22, 2022
+File Name: css/styles.css
+*/
+
+/* CSS Reset */
+body, header, nav, main, footer, h1, h3 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* Style rules for body */
+body {
+    padding: 2%;
+    background-color: #d1d1e0;
+}
+
+#css1 {
+	float: left;
+	width: 30%;
+	padding: 0 1%;
+}
+		
+#css2 { 
+	float: left;
+	width: 30%;
+	padding: 0 1%;
+}
+
+#css3 {
+    float: right;
+	width: 30%;
+    padding: 0 1%;
+}
+
+/* Style rules for main content */
+main {
+	padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+	overflow: auto;
+	color: #47476b;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: none;
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding-top: 2%;
+    font-size: 2em;
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: Georgia, Times, serif;
+    padding: 3%;
+    color: #47476b;
+	text-align: center;
+}
+
+/* Style rules for navigation */
+nav {
+	text-decoration: none;
+    background-color: #47476b;
+} 
+
+nav ul { 
+	margin: 0;
+	display: inline-block;
+	text-decoration: none;
+} 
+	
+nav li {
+    display: inline-block;
+    font-size: 1.5em; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-weight: bold;
+	text-decoration: none;
+}
+ 
+nav li a { 
+	display: inline-block; 
+	color: #e3eaf8; 
+	padding: 0.5em 2em; 
+	text-decoration: none;
+}
+
+/* Style rules for footer */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: #47476b;
+    padding: 1% 0;
+    border-top: 3px solid #47476b;
+	float: left
+}
+
