@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+	Student name: Cara Gano
+	File name: index.html
+	Date: January 24th, 2022
+-->
+<html lang="en">
+<head>
+	<title>Cara Gano: Home</title>
+<meta charset="utf-8">
+</head>
+<body>
+	<header>
+		<h1>Cara Gano</h1>
+		<h3>My Portfolio</h3>
+	</header>
+	
+	<nav>
+		<p>Home &nbsp; &#9672; &nbsp;
+		My Portfolio &nbsp; &#9672; &nbsp;
+		About Me &nbsp; &#9672; &nbsp;
+		Contact Me<p>
+	</nav>
+	
+	<!-- Use the main area to add the main content to the webpage -->
+	<main> <br>
+		
+		<p>I possess a lot of qualities that are well suited for a career in web page development.  My communication skills are good and make me a good teammate while working on projects.  My attention to detail and accuracy are well utilized while working on a web page design.</p> <br>
+		<p>I am creative and love to find new ways to express myself.  My passion for knowledge and constant striving to improve and develop my skills would make me a fantastic employee for your company.  I hope that you will explore this website and contact me in the future!</p> <br>
+		
+	</main>
+	
+	<footer>
+		<p>&copy; Copyright 2022. All Rights Reserved.</p>
+	</footer>
+</body>
+</html>
